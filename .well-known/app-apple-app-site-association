@@ -1,30 +1,23 @@
 {
     "activitycontinuation": {
         "apps": [
-            "8W66MEA7DD.com.spotify.client",
-            "GACAHMN7PB.com.spotify.client",
-            "78U2H6KMAF.com.spotify.client.internal"
+            "8W66MEA7DD.com.matchu.spotihack",
         ]
     },
     "applinks": {
         "apps": [],
         "details": [
             {
-                "appID": "8W66MEA7DD.com.spotify.client",
+                "appID": "8W66MEA7DD.com.matchu.spotihack",
                 "paths": [
-                    "/recover/*",
-                    "/pair",
-                    "/inapp-authorize",
-                    "/login/ott/music"
+                    "/spotihack/*",
                 ]
             },                       
         ]
     },
     "webcredentials": {
         "apps": [
-            "8W66MEA7DD.com.spotify.client",
-            "GACAHMN7PB.com.spotify.client",
-            "78U2H6KMAF.com.spotify.client.internal"
+            "8W66MEA7DD.com.matchu.spotihack",
         ]
     }
 }
