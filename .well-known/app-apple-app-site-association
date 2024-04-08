@@ -1,0 +1,30 @@
+{
+    "activitycontinuation": {
+        "apps": [
+            "8W66MEA7DD.com.spotify.client",
+            "GACAHMN7PB.com.spotify.client",
+            "78U2H6KMAF.com.spotify.client.internal"
+        ]
+    },
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "8W66MEA7DD.com.spotify.client",
+                "paths": [
+                    "/recover/*",
+                    "/pair",
+                    "/inapp-authorize",
+                    "/login/ott/music"
+                ]
+            },                       
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "8W66MEA7DD.com.spotify.client",
+            "GACAHMN7PB.com.spotify.client",
+            "78U2H6KMAF.com.spotify.client.internal"
+        ]
+    }
+}
