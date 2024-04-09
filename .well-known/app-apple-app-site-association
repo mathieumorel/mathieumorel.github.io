@@ -15,8 +15,8 @@
                 ]
             }, 
             {
-            "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
-                 "paths": [
+                "appID": "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
+                "paths": [
                     "/spotihack/*",
                 ]
             }
