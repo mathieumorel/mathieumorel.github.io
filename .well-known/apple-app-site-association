@@ -2,7 +2,7 @@
     "activitycontinuation": {
         "apps": [
             "26Z95CG5TH.com.matchu.spotihack",
-            "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
+            "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest"
         ]
     },
     "applinks": {
@@ -11,13 +11,13 @@
             {
                 "appID": "26Z95CG5TH.com.matchu.spotihack",
                 "paths": [
-                    "/spotihack/*",
+                    "/spotihack/*"
                 ]
-            }, 
+            },
             {
                 "appID": "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
                 "paths": [
-                    "/spotihack/*",
+                    "/spotihack/*"
                 ]
             }
         ]
@@ -25,7 +25,7 @@
     "webcredentials": {
         "apps": [
             "26Z95CG5TH.com.matchu.spotihack",
-             "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest",
+            "2FNC3A47ZF.com.spotify.client.leschenok.AppleIDTest"
         ]
     }
 }
